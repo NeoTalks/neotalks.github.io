@@ -1,8 +1,8 @@
 # 联系方式
 
-- 手机：`15683091580` 
-- Email：`NeoTang97@outlook.com` 
-- QQ/微信号：`913634102`
+- 手机：15683091580
+- Email：NeoTang97@outlook.com
+- QQ/微信号：913634102
 
 
 # 个人信息
